@@ -76,3 +76,16 @@ class TestClass {
     }
 
 }
+
+/*sample input/*              /*sample ouput/*
+
+2                                   3
+3  4                                0
+1  2  5
+3  2
+2  5  5 
+
+
+
+
+
